@@ -233,12 +233,12 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#22](https://github.com/BCG-X-Official/artkit/issues/22#issuecomment-2212357144) in [BCG-X-Official/artkit](https://github.com/BCG-X-Official/artkit)
+<!-- 1. 🗣 Commented on [#22](https://github.com/BCG-X-Official/artkit/issues/22#issuecomment-2212357144) in [BCG-X-Official/artkit](https://github.com/BCG-X-Official/artkit)
 2. 🗣 Commented on [#22](https://github.com/BCG-X-Official/artkit/issues/22#issuecomment-2211005650) in [BCG-X-Official/artkit](https://github.com/BCG-X-Official/artkit)
 3. 🗣 Commented on [#22](https://github.com/BCG-X-Official/artkit/issues/22#issuecomment-2209880628) in [BCG-X-Official/artkit](https://github.com/BCG-X-Official/artkit)
 4. 🗣 Commented on [#22](https://github.com/BCG-X-Official/artkit/issues/22#issuecomment-2206202822) in [BCG-X-Official/artkit](https://github.com/BCG-X-Official/artkit)
 5. 🗣 Commented on [#2944](https://github.com/actualbudget/actual/issues/2944#issuecomment-2204677715) in [actualbudget/actual](https://github.com/actualbudget/actual)
-   END_SECTION:activity
+   END_SECTION:activity -->
 
 ## <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='37' /> Random Joke
 
