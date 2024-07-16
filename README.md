@@ -19,13 +19,13 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 <details>
  <summary><h2> <img align="center" src="https://github.com/ArfinHasib/ArfinHasib/blob/main/icons/about.png" width="37" /> Resume</h2></summary>
 
- <details>
+ <!-- <details>
   <summary><h4> <img align="center" src="https://github.com/ArfinHasib/ArfinHasib/blob/main/icons/academics.gif"  width="29"/> Academics</h2></summary>
 
 <span><img src="https://img.shields.io/badge/BTECH-DTU_ECE'24-1877F2?style=for-the-badge"></span>
 <span><img src="https://img.shields.io/badge/GPA-9.45/10.0-EFEEE9?style=for-the-badge"></span>
 
-</details>
+</details> -->
  <details>
   <summary><h4> <img align="center" src="https://github.com/ArfinHasib/ArfinHasib/blob/main/icons/experience.gif"  width="29"/> Experience</h2></summary>
 
@@ -171,7 +171,7 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
 </details>
 
-<details>
+<!-- <details>
   <summary><h2> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/stats.gif"  width="32"/> Stats</h2></summary>
 
 ### Leetcode
@@ -200,7 +200,7 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ParthJohri&theme=tokyo-night)
 
   </div>
-</details>
+</details> -->
 
 <details>
   <summary><h2> <img align ='center' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtqdDdwN2oyNWJ4czlncHBkamJxaHcxYmVmcXY3a3I3MjRmYjBrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/kmUvauX8TMWg0OsqKW/giphy.gif' width ='37' /> Socials</h2></summary>
@@ -228,11 +228,11 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
  </a>
 </p>
 
-### ✅ Merged PRs
+<!-- ### ✅ Merged PRs -->
 
 <!--Start Count Merged PRs-->
-
-<span><img src="https://img.shields.io/badge/Total_Merged_PRs-34-1877F2?style=for-the-badge"></span>
+<!--  -->
+<!-- <span><img src="https://img.shields.io/badge/Total_Merged_PRs-34-1877F2?style=for-the-badge"></span> -->
 
 <!--Finish Count Merged PRs-->
 
@@ -245,7 +245,7 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 5. 🙌🏼 Merged PR [5](https://github.com/monacodelisa/LGBTQ-definitions/pull/5) - [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
  <!--Finish Merged PRs-->
 
-### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
+<!-- ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity -->
 
 <!--START_SECTION:activity-->
 
