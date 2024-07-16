@@ -269,8 +269,8 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ArfinHasib/ArfinHasib/blob/main/icons/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ArfinHasib/ArfinHasib/blob/main/icons/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/ArfinHasib/ArfinHasib/blob/main/icons/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ArfinHasib/ArfinHasib/blob/main/icons/github-user-contribution.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ArfinHasib/ArfinHasib/blob/main/icons/github-user-contribution-light.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/ArfinHasib/ArfinHasib/blob/main/icons/github-user-contribution.svg">
   </picture>
 </div>
