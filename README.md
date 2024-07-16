@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/ArfinHasib/ArfinHasib/blob/readME/icons/Hi.gif" width="28px"/>, I'm Parth Johri</h2>
+<h1 align="center">Hi <img src="https://github.com/ArfinHasib/ArfinHasib/blob/readME/icons/Hi.gif" width="28px"/>, I'm Arfin Hasib</h2>
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=ArfinHasib&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
 Fullstack Developer
