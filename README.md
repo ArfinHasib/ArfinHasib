@@ -14,7 +14,7 @@ Fullstack Developer
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
-I am a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. A Versatile Developer Specializing in <strong>MERN, Android Development, and Chatbot Development</strong> with a Passion for Continuous Learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
+I am a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. A Versatile Developer Specializing in <strong>MERN, UI/UX DESIGN, and NEXTJS</strong> with a Passion for Continuous Learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
 
 <details>
  <summary><h2> <img align="center" src="https://github.com/ArfinHasib/ArfinHasib/blob/main/icons/about.png" width="37" /> Resume</h2></summary>
@@ -29,22 +29,27 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
  <details>
   <summary><h4> <img align="center" src="https://github.com/ArfinHasib/ArfinHasib/blob/main/icons/experience.gif"  width="29"/> Experience</h2></summary>
 
--   **Frontend Developer Intern** at Magpie XYZ (Remote) | Jan 2024 - May 2024
+-   **Web Designer & Developer** at Upwork (Remote) | Jan 2021 - Current
 
-    -   Integrated Cakepie, Magpie, Eigenpie pages, facilitating deposits exceeding $800 million.
-    -   Enhanced data accuracy by 30% through seamless integration of smart contracts into the front-end.
+    -   Currently working as a front-end Developer and UI/Web Designer on Upwork.
+    -   Built websites for clients in different niches(using HTML, CSS, JavaScript, TypeScript, NextJS, React, Webflow, etc) that
+        increased their sales, engagement, and overall user experience.
     -   Improved UI loading speed and mobile responsiveness, reducing user-reported bugs by 20%.
 
--   **Content Strategist - MERN Stack Intern** at TestBook (Remote) | Oct 2022 - Nov 2022
+-   **Youtuber - FrontEnd Development, Web Design, JavaScript, CSS, React, NextJs** at YouTube (Remote) | Apr 2024 - Current
 
-    -   Enhanced interactive coursework modules for data structures and web development, increasing student engagement by 30%.
-    -   Mentored over 100 students in DSA & Web Development, significantly improving their technical proficiency.
+    -   I have a YouTube Channel (DevLab Tutorials) where I teach about web development, and building projects with HTML, CSS,
+        JavaScript, React, TypeScript, and Next.js.
+    -   Providing valuable content for my audiences every day, building web projects from scratch, and teaching my audienceabout
+        front-end development, css animations, JavaScript frameworks, and much more. Feel free to visit my channel.
 
--   **Content Writer Intern** at Toppr Learning Inc (Remote) | Jul 2021 - Oct 2021
-    -   Transformed JEE Mathematics learning for over 10 batches by designing innovative visual-based presentations and solutions.
+-   **UI/UX Designer & Frontend Developer** at e-iskool (Remote) | Jul 2020 - Oct 2021
+    -   Designed and implemented proper visual designs after user research and usability testing with the UX team.
+    -   Collaborated with backend developers to implement APIs, implement database, and also make sure the right data getspresented
+    to the users.
     </details>
 
-<details>
+<!-- <details>
   <summary><h4> <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"  width="29"/> Coding Handles</h2></summary>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/binarysolver)
@@ -53,7 +58,7 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/parthjohri)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/parthjohri31?hr_r=1)
 
-</details>
+</details> -->
 
 <details>
   <summary><h4> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/techstack.gif"  width="29"/> Tech Stack</h2></summary>
@@ -61,11 +66,15 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 #### Languages
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+<!-- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
+<!-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) -->
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+<!-- ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) -->
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -74,11 +83,17 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 #### Libraries/Frameworks
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+<!-- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) -->
+
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+
+<!-- ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) -->
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639)
+
+<!-- ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) -->
+
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Express.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
@@ -96,7 +111,8 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
 #### Tools
 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+<!-- ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) -->
+
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
