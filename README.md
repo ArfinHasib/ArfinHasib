@@ -126,47 +126,59 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 <details>
   <summary><h4> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/projects.gif"  width="29"/> Projects</h2></summary>
 
-#### <a href="https://github.com/ParthJohri/rm-whatsapp-bot">RMNotices</a>
+#### <a href="https://github.com/ArfinHasib/Lotion-A-Notion-Clone">Notion Clone</a>
 
-<span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></span>
+#### <a href="https://lotion-a-notion-clone.vercel.app/">Lotion (Live website)</a>
 
--   Implemented instant job alerts to notify users about new job opportunities, along with a **1-hour** reminder before the deadline for better organization and timely application submission.
--   Accomplished a significant milestone of **500** daily users for RMNotices, surpassing initial projections aimed to add an extra **2,000** individuals to maximize user base potential.
--   **Impact:** Maximized productivity by automating the notification process, eliminating manual monitoring and alerts, resulting in a **20%** reduction in Placement Coordinator’s workload.
+<span>
+<img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</span>
 
-#### <a href="https://github.com/ParthJohri/Lumos-Bot">Lumos Bot</a>
+-   Implemented a Notion Clone (I named it Lotion). Used NextJS 14, Tailwind CSS, Convex for Database Management and Clerk for Authenticaiton.
+-   Users can sign up and create new account, After that they can start creating unlimited notes.
+-   **Impact:** This app doesn't have all the functionality of the Main Notion App. But have the most important and useful ones.
 
-<span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></span>
+#### <a href="https://github.com/ArfinHasib/Taskify">Taskify</a>
 
--   Developed a Whatsapp bot with features like interactive Q&A, company suggestions, job listings, real-time news, contest/hackathon updates, downloading YouTube/Facebook video, and providing 18 additional functionalities.
--   Boosted the daily user experience of **200** to **300** individuals with Lumos Whatsapp Bot.
+#### <a href="https://taskify-neon.vercel.app/">Taskify (Live Website)</a>
+
+<span><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<img src="">
+</span>
+
+-   Developed a Task Management App similar to Trello with NEXT.JS, Tailwind CSS, Convex for Database Management and Clerk for Authenticaiton.
+-   Users can sign up and start creating Tasks and modify them with proper usable ux and ui design.
 -   **Impact:** Transformed user experience by incorporating various features, resulting in a remarkable **40%** increase in user engagement and a **25%** growth in active participation.
 
-#### <a href="https://github.com/ParthJohri/Google-AMD-Hackathon">Krishi Market</a>
+#### <a href="https://github.com/ArfinHasib/CineMate-React">Cinemate</a>
+
+#### <a href="https://cinemmate-react.netlify.app/">Cinemate (Live Website)</a>
 
   <span>
   <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
   </span>
 
--   Innovated a web application which will reduce Farmers' dependency on Middlemen and help them sell their crops to retailers, wholesalers, and consumers at a better price. Not only this but this web app would help them to keep track of all their transactions.
+-   An Web Application to view latest and top movies released recently and all over the years.
 -   **Impact:** Easy and Intuitive UI/UX which facilitated direct communication b/w farmers & consumers, with a secure Database and easy maintenance of all transaction records.
 
-#### <a href="https://github.com/ParthJohri/Face-flix">Face-Flix</a>
+#### <a href="https://github.com/ArfinHasib/Magic-Match">Magic And Match Matching Game</a>
 
-<span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></span>
+#### <a href="https://magicandmatch.netlify.app/">Magic and Match Game Live</a>
 
--   Innovated a facial expression-based movie recommendation engine, amplifying user engagement by **30%** through personalized suggestions based on mood analysis.
--   **Impact:** Enhanced movie exploration, resulting in an increase in user satisfaction by **10%** to **30%**.
+<span>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square">
+ </span>
 
-#### <a href="https://github.com/ParthJohri/Medicine-Tracker">Medicine Tracker</a>
+-   This a classic Matching Game. I have developed it using React, JSX, React Query and Redux.
+-   **Impact:** Enhanced the UX with custom CSS styles to make it more fun and user friendly.
 
-<span><img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></span>
-
--   Integrated ordering medicines, facts, and quotes to lighten up the user, light/dark mode, with the future plan of integrating notification system and Calorie/BMI calculator.
 </details>
 
 </details>
